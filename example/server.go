@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"codigo.id/go-sse"
+	"github.com/silalahi/go-sse"
 )
 
 var broker *sse.Broker
